@@ -1,3 +1,5 @@
+<h3><b><i>🏆 Page statistics :</i></b></h3>
+<a href="https://github.com/MrHacker-X/TraceX-GUI"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
 # TraceX-GUI
 
 ## Author
