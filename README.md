@@ -24,6 +24,7 @@
 + Debian
 + Linux
 
+### Use `sudo` before you enter any command and if you're termux user then you can skip this part.
 ## Installation
 
 + `apt-get update -y`
