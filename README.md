@@ -27,6 +27,8 @@
 ### Use `sudo` before you enter any command and if you're termux user then you can skip this part.
 ## Installation
 
+### Note: Open Root terminal for Linux and Install
+
 + `apt-get update -y`
 + `apt-get upgrade -y`
 + `apt-get install git -y`
@@ -46,7 +48,7 @@
 apt-get update -y;apt-get upgrade -y;apt-get install git;git clone https://github.com/MrHacker-X/TraceX-GUI.git/;cd TraceX-GUI;chmod +x *;bash termx.sh
 ```
 
-### For Linux User >
+### For Linux User > (Open Root terminal first)
 ```
 apt-get update -y;apt-get upgrade -y;apt-get install git;git clone https://github.com/MrHacker-X/TraceX-GUI.git/;cd TraceX-GUI;chmod +x *;bash linux.sh
 ```
