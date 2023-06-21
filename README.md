@@ -25,23 +25,23 @@ LocatorX is a powerful IP tracing tool with a web-based GUI that provides variou
 1. Ensure you have Termux installed on your Android device.
 2. Open Termux and execute the following command to install Git (if not already installed):
 
-> apt install git -y
+- ` apt install git -y `
 
 3. Clone the LocatorX repository from GitHub:
 
-> git clone https://github.com/MrHacker-X/LocatorX.git
+- ` git clone https://github.com/MrHacker-X/LocatorX.git `
 
 4. Change to the LocatorX directory:
 
-> cd LocatorX
+- ` cd LocatorX `
 
 5. Execute the installer script to install LocatorX in your Termux:
 
-> bash install.sh
+- ` bash install.sh `
 
 
 ## Features
-LocatorX provides the following features:
+- ### LocatorX provides the following features:
 
 - **IP Tracing**: Trace and gather detailed information about an IP address.
 - **Geographical Location**: Retrieve the continent, continent code, country, country code, region, region name, city, zip code, latitude, longitude, timezone, and offset of an IP address.
