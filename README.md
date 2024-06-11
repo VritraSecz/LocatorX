@@ -1,11 +1,11 @@
 <h1 align="center">LocatorX</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/MrHacker-X/LocatorX?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/MrHacker-X/LocatorX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/MrHacker-X/LocatorX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/MrHacker-X/LocatorX?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MrHacker-X/LocatorX?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/stars/VritraSecz/LocatorX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/VritraSecz/LocatorX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/VritraSecz/LocatorX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/VritraSecz/LocatorX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/VritraSecz/LocatorX?style=for-the-badge&color=blue">
 <br>
   <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
@@ -29,7 +29,7 @@ LocatorX is a powerful IP tracing tool with a web-based GUI that provides variou
 
 3. Clone the LocatorX repository from GitHub:
 
-- ` git clone https://github.com/MrHacker-X/LocatorX.git `
+- ` git clone https://github.com/VritraSecz/LocatorX.git `
 
 4. Change to the LocatorX directory:
 
@@ -76,7 +76,7 @@ LocatorX is a powerful IP tracing tool with a web-based GUI that provides variou
 - Contributions to LocatorX are welcome! If you encounter any issues, have suggestions, or would like to add features, please open an issue or submit a pull request on the GitHub repository.
 
 ## License
-- LocatorX is released under the [Boost Software License 1.0](https://github.com/MrHacker-X/LocatorX/blob/main/LICENSE). Please review the license before using or modifying this tool.
+- LocatorX is released under the [Boost Software License 1.0](https://github.com/VritraSecz/LocatorX/blob/main/LICENSE). Please review the license before using or modifying this tool.
 
 ## Contact
-- For any inquiries or questions, please contact [MrHacker-X](https://telegram.me/ethicxbot).
+- For any inquiries or questions, please contact [VritraSecz](https://telegram.me/ethicxbot).
